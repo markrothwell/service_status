@@ -2,7 +2,6 @@ Description
 A Dashing widget that checks whether a service is responding. It displays either a check or alert depending on the response.
 
 
-
 Usage
 Add the widget HTML to your dashboard
 0. <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
